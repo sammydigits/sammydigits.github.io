@@ -1,3 +1,8 @@
+---
+layout: post
+title: Back to school
+---
+
 
 ![Treehouse](http://upload.sam-thompson.info/upload/files/treehouse.jpg "Large example image")
 
