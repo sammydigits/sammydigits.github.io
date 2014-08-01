@@ -7,4 +7,4 @@ title: Selling with Shopify
 
 My wife Frances and I have launched an ecommerce site, we used the excellent hosted solution provided by Shopify, for which I created a custom template with new images and CSS.
 
-Check it out: (CardsByFrances.com)[http://www.cardsbyfrances.com]
+Check it out: [CardsByFrances.com](http://www.cardsbyfrances.com)
