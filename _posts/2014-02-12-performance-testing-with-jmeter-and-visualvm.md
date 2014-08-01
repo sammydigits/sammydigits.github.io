@@ -1,3 +1,7 @@
+---
+layout: post
+title: Performance testing with JMeter and VisualVM
+---
 
 ![performance testing](http://upload.sam-thompson.info/upload/files/jmeter_and_visualvm.jpg "Large example image")
 
