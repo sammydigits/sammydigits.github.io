@@ -3,7 +3,7 @@ layout: post
 title: CSS Guidelines
 ---
 
-I created guidelines for CSS usage within the 10 person websites team. The focus was on performance and working as a team. CSS Guidelines
+Today I created guidelines for CSS usage within my 10 person developer team. The focus was on performance and working as a team. Check out my [CSS Guidelines](http://upload.sam-thompson.info/upload/files/CSS_Guidelines.pdf).
 
 ![placeholder](http://upload.sam-thompson.info/upload/files/css_guidelines.jpg "Large example image")
 
