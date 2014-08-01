@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing Hyde
+title: Big project finally shipped
 ---
 
 ### IG.com
