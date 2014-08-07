@@ -7,7 +7,7 @@ title: About
   Hi there!
 </p>
 
-https://avatars3.githubusercontent.com/u/1637993?v=2&s=460
+![Sam T](https://avatars3.githubusercontent.com/u/1637993?v=2&s=460 "Large example image")
 
 I'm Sam, a web developer from London.
 
