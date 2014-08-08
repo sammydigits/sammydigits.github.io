@@ -9,7 +9,7 @@ title: About
 
 ![Sam T](https://avatars3.githubusercontent.com/u/1637993?v=2&s=460 "Large example image")
 
-I'm Sam, a web developer from London.
+I'm Sam, a web developer from London. I strive to simplify complex website problems using clever code, good design, and intuitive UX. This is my portfolio, I hope you like what you see!
 
 ## Status
 
