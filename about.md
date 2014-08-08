@@ -19,6 +19,4 @@ Not currently looking for work, but thanks for asking.
 * [Twitter](http://twitter.com/samteeeee)
 * [GitHub](https://github.com/samteeeee)
 * [Dribbble](https://dribbble.com/SamTeeeee/likes)
-
-
-Thanks for reading!
+* [Facebook](https://www.facebook.com/samteeeee)
