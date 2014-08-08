@@ -6,7 +6,7 @@ title: The rest is history
 A bunch of websites I built, or was involved in building, over the last few years.
 
 <p class="message">
-  <strong>* This list is old and many of these sites might have moved or been rebuild since my involvement.</strong>
+  <strong>* This list is old, and many of these sites might have been moved, redirected, rebuilt or shutdown since my involvement.</strong>
 </p>
 
 * 2Cs - [http://www.2cs.com](http://www.2cs.com)
