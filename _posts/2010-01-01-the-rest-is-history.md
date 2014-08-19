@@ -22,3 +22,15 @@ A bunch of websites I built, or was involved in building, over the last few year
 * The Carib House - [http://www.thecaribhouse.com](http://www.thecaribhouse.com)
 * The Malkai - [http://www.themalkai.com](http://www.themalkai.com)
 * The Knightsbridge - [http://www.theknightsbridge.com](http://www.theknightsbridge.com)
+* http://www.eurocancercoms.eu/
+* National Home Security Week
+* http://www.lancelotplace.co.uk/
+* http://www.icecooldiamonds.co.uk/
+* http://www.gobrazilproperties.com
+* BT Wholesale
+* Openreach
+* The Portland Hospital
+* Alice & Emma
+* Plinthco
+* Meyer Bergman
+* 
