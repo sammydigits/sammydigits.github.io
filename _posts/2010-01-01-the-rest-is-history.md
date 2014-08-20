@@ -9,8 +9,8 @@ A bunch of websites I built, or was involved in building, over the last few year
   <strong>* This list is old, and many of these sites might have been moved, redirected, rebuilt or shutdown since my involvement.</strong>
 </p>
 
-Description  | URL
-------------- | -------------
+Description | URL
+---|---
 2Cs | [http://www.2cs.com](http://www.2cs.com)
 @Work Recruitment | [http://www.workrecruitment.co.uk](http://www.workrecruitment.co.uk)
 eCancer "Winner 'Web, TV and Asset Management" award IVCA Awards 2010. Winner 'Best educational tool for healthcare professionals' PM Society Digital Media Awards 2009 | [http://www.ecancermedicalscience.com](http://www.ecancermedicalscience.com)
