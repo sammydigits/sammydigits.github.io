@@ -3,7 +3,7 @@ layout: post
 title: The rest is history
 ---
 
-A bunch of websites I built, or was involved in building, over the last few years.
+I entered the world of web development in about 1997, I've built hundreds of websites. Unfortunately I was so busy doing this I didnt have the foresight to keep a record of everything. So anyway, here's bunch of websites I built, or was involved in building, over the last few years. 
 
 <p class="message">
   <strong>* This list is old, and many of these sites might have been moved, redirected, rebuilt or shutdown since my involvement.</strong>
