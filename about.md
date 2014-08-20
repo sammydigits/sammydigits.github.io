@@ -20,3 +20,6 @@ Not currently looking for work, but thanks for asking.
 * [GitHub](https://github.com/samteeeee)
 * [Dribbble](https://dribbble.com/SamTeeeee/likes)
 * [Facebook](https://www.facebook.com/samteeeee)
+ 
+Ps, this blog is built using Jekyll and hosted on Github pages.
+
