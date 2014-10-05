@@ -16,6 +16,7 @@ Not currently looking for work, but thanks for asking.
 
 ## Elsewhere
 
+* [My blog](http://blog.sam-thompson.info)
 * [Twitter](http://twitter.com/samteeeee)
 * [GitHub](https://github.com/samteeeee)
 * [Dribbble](https://dribbble.com/SamTeeeee/likes)
@@ -23,5 +24,5 @@ Not currently looking for work, but thanks for asking.
  
 &nbsp;
 
-Ps, this blog is built using Jekyll, and is hosted on Github pages.
+Ps, this site is built using Jekyll, and is hosted on Github pages.
 
