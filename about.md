@@ -17,8 +17,8 @@ Not currently looking for work, but thanks for asking.
 ## Elsewhere
 
 * [My blog](http://blog.sam-thompson.info)
-* [Twitter](http://twitter.com/samteeeee)
-* [GitHub](https://github.com/samteeeee)
+* [Twitter](http://twitter.com/sammydigits)
+* [GitHub](https://github.com/sammydigits)
 * [Dribbble](https://dribbble.com/SamTeeeee/likes)
 * [Facebook](https://www.facebook.com/samteeeee)
  
