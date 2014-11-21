@@ -11,14 +11,14 @@ permalink:        pretty
 title:            Sam T
 tagline:          'Frontend Web Developer'
 description:      'Web developer in Chicago, previously at IG and Razorfish in London'
-url:              http://samteeeee.github.com
+url:              http://sammydigits.github.com
 baseurl:          /
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-53416544-1
 
 author:
   name:           'Sam Thompson'
-  url:            https://twitter.com/samteeeee
+  url:            https://twitter.com/sammydigits
 
 paginate:         5
 
