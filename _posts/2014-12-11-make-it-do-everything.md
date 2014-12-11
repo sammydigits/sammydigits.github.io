@@ -3,11 +3,11 @@ layout: post
 title: Make it do everything
 ---
 
-I can't show a screenshot yet, but I recently built a website which is:
+I can't show a screenshot yet, but I recently built a website which:
 
-- Fully responsive, fully.
+- Is fully responsive, fully.
 - Degrades gracefully down to IE7
 - Uses a video background
 - Features parallax scrolling
 
-It's pretty epic.
+It's pretty epic, stay tuned.
