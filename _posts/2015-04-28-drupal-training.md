@@ -3,7 +3,7 @@ layout: post
 title: Drupal training
 ---
 
-![placeholder](http://upload.sam-thompson.info/upload/files/drupal_branding_2012.jpg "Small example image")
+![placeholder](http://upload.sam-thompson.info/upload/files/drupal.jpg "Large example image")
 
 Today I completed a 2 day training course on Drupal, we covered the following topics:
 
