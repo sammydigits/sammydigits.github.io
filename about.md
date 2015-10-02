@@ -7,7 +7,7 @@ title: About
   Hi there! I'm Sam, a web developer, originally from London. I attempt to simplify complex website problems using clever code, good design, and intuitive UX. This website is my portfolio, I hope you like what you see!
 </p>
 
-![Sam T](http://upload.sam-thompson.info/upload/files/sam_thompson.jpeg "Large example image")
+![Sam T](https://cloud.githubusercontent.com/assets/1637993/10256782/f7c2d46c-6918-11e5-91fa-53d25551ef45.jpg "Large example image")
 
 
 ## Status
