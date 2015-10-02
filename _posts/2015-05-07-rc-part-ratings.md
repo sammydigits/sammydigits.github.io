@@ -3,7 +3,7 @@ layout: post
 title: Side project launched - RCPartRatings.com
 ---
 
-![placeholder](http://upload.sam-thompson.info/upload/files/rcpr_screenshot.png "Large example image")
+![placeholder](https://cloud.githubusercontent.com/assets/1637993/10256504/4859c2ca-6917-11e5-9381-5877f0cb5391.png "Large example image")
 
 Over the weekend I launched my latest side-project, aimed at the world of RC hobbyists (which I am).
 
