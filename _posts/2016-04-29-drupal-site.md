@@ -3,7 +3,7 @@ layout: post
 title: Drupal Website
 ---
 
-I successfully delivered a 9 month long project to rebuild our corporate website using Drupal, hosted on Acquia, served by Akamai. 
+I successfully delivered a 9-month long project to rebuild our corporate website using Drupal, hosted on Acquia, served by Akamai. 
 
 I built the entire site, theme, templates, setup and configuration from start to finish.
 
