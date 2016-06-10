@@ -3,7 +3,7 @@ layout: post
 title: Drupal Website
 ---
 
-![placeholder](https://cloud.githubusercontent.com/assets/1637993/10256504/4859c2ca-6917-11e5-9381-5877f0cb5391.png "Large example image")
+![placeholder](https://raw.githubusercontent.com/sammydigits/sammydigits.github.io/38230249c1e68f79385c652700c56ba868dd7475/IMG_0608.PNG "Large example image")
 
 I successfully delivered a 9-month long project to rebuild our corporate website using Drupal, hosted on Acquia, served by Akamai. 
 
