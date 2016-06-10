@@ -3,7 +3,7 @@ layout: post
 title: Drupal Website
 ---
 
-![placeholder](https://raw.githubusercontent.com/sammydigits/sammydigits.github.io/38230249c1e68f79385c652700c56ba868dd7475/IMG_0608.PNG "Large example image")
+<img src="https://raw.githubusercontent.com/sammydigits/sammydigits.github.io/38230249c1e68f79385c652700c56ba868dd7475/IMG_0608.PNG" style="float: left;" alt="Drupal Website">
 
 I successfully delivered a 9-month long project to rebuild our corporate website using Drupal, hosted on Acquia, served by Akamai. 
 
