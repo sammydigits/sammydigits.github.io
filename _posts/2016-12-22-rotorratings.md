@@ -7,4 +7,4 @@ title: Side project launched - RotorRatings.com
 
 <p>A little side project that I've been working on for most of 2016. Ratings, reviews, build lists, comparisons for drone parts. Build in Drupal 7, integrating my own custom modules and many excellent contrib modules. All images automatically synced to my S3 bucket on AWS.</p>
 
-<p style="clear:both;">&nbsp;</p>
+<hr style="clear:both"/>
