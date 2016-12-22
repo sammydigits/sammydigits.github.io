@@ -14,3 +14,5 @@ In future I plan to expand the site to include other areas of RC, like planes, h
 The site is a webapp, it uses Parse.com as a backend and is completely written by myself, in javascript, using the Parse Javascript API.
 
 Check it out: <a href="http://www.rcpartratings.com" target="_blank">http://www.rcpartratings.com</a>
+
+<hr style="clear:both"/>
