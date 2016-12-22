@@ -14,3 +14,5 @@ We collaborated with a local Chicago design consultancy and placed strong emphas
 Acquia has proven to be an excellent platform and a pleasure to work with. I also utilized the WhiteHouse.gov Akamai module for Drupal.
 
 Ongoing work will include custom module development. Contribution to the Drupal open source infrastucture begins here.
+
+<hr style="clear:both"/>
