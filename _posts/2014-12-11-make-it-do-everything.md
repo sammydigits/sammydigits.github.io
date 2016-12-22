@@ -11,3 +11,5 @@ I can't show a screenshot yet, but I recently built a website which:
 - Features parallax scrolling
 
 It's pretty epic, stay tuned.
+
+<hr style="clear:both"/>
