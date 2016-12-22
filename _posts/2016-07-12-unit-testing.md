@@ -7,4 +7,4 @@ title: Unit Testing with Mocha
 
 Today I begun using the Mocha testing framework in my javascript projects.
 
-<p style="clear:both;">&nbsp;</p>
+<hr style="clear:both"/>
