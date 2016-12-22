@@ -7,4 +7,4 @@ title: SalesForce Marketing Cloud - Content Builder Email Templates
 
 I created a suite of responsive email templates designed to work with Content Builder, the offering from SalesForce Marketing Cloud. They are intended to offer the flexibilty that content editors require, whilst remaining on brand and correctly styled.
 
-<p style="clear:both;">&nbsp;</p>
+<hr style="clear:both"/>
