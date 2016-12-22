@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Side project launched: RotorRatings.com
+title: Side project launched - RotorRatings.com
 ---
 
 <img src="https://cloud.githubusercontent.com/assets/1637993/21432652/1bc672e6-c832-11e6-81c3-50765637e9b4.png" alt="RotorRatings.com">
