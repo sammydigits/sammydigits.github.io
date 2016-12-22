@@ -19,3 +19,5 @@ Today I completed a 2 day training course on Drupal, we covered the following to
 - An introduction to themes and the Drupal theming system
 - Building a theme
 - An introduction to template overrides
+
+<hr style="clear:both"/>
