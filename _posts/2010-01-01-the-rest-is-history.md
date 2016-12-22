@@ -37,3 +37,5 @@ Medi Plinth | [http://medi-plinth.co.uk/](http://medi-plinth.co.uk/)
 Meyer Bergman | [http://www.meyerbergman.com/](http://www.meyerbergman.com/)
 Jerwood Foundation | [http://www.jerwoodfoundation.org/](http://www.jerwoodfoundation.org/) 
 The Famous Grouse | [http://www.thefamousgrouse.com/](http://www.thefamousgrouse.com/)
+
+<hr style="clear:both"/>
