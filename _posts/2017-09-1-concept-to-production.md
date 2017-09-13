@@ -7,12 +7,12 @@ I recently completed a project to migrate ~1000 blog posts from Wordpress to a c
 
 <div class="container">
 <div class="row">
-<div class="col-md-6">
+<div class="col-sm-6">
        
 <a target="_blank" href="https://raw.githubusercontent.com/sammydigits/portfolio-images/master/market-news-homepage-mockup-large.png"><img src="https://raw.githubusercontent.com/sammydigits/portfolio-images/master/market-news-homepage-mockup-small.png" alt="mockup"></a>
 
 </div>
-<div class="col-md-6">
+<div class="col-sm-6">
 
 <a target="_blank" href="https://raw.githubusercontent.com/sammydigits/portfolio-images/master/market-news-homepage-large.png"><img src="https://raw.githubusercontent.com/sammydigits/portfolio-images/master/market-news-homepage-small.png" alt="finished production site"></a>
 
